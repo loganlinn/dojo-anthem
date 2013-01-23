@@ -8,6 +8,8 @@ play a national anthem. It was the first time any of us had seen the
 library or programmed music. It's really not much, but we were able to
 make something!
 
+Here's another group's code: [https://github.com/seancorfield/dojo-anthem](https://github.com/seancorfield/dojo-anthem)
+
 ## Usage
 
 ```
